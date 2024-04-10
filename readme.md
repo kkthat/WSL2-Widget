@@ -1,7 +1,7 @@
 
 # WSL2 Widget
 
-A very simple and not probably not very good app that shows if WSL2 is running and allows you to stop it
+A very simple and probably not very good app that shows if WSL2 is running and allows you to stop it.
 
 
 ## Compiling
@@ -19,5 +19,5 @@ x86_64-w64-mingw32-g++ main.cpp icon.res -o WSLStatus.exe -mwindows -static-libg
 ```
 ## Installation
 
-You can download a compiled exe from the releases page or you can build your own. If you want it to run on startup just put it in your windows starup folder. You can find it by running this command in WIN+R "shell:startup" Then just dump the exe in there
+You can download a compiled exe from the releases page or you can build your own. If you want it to run on startup just put it in your windows startup folder. You can find it by running this command in WIN+R "shell:startup" Then just dump the exe in there.
 
